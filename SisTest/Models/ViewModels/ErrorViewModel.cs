@@ -1,6 +1,6 @@
 using System;
 
-namespace SisTest.Models
+namespace SisTest.Models.ViewModels
 {
     public class ErrorViewModel
     {
